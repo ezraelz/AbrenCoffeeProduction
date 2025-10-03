@@ -1,1 +1,0 @@
-import{a as t,r as o,j as e,L as a}from"./index-JXyJwW1n.js";const c=()=>{const s=t();return o.useEffect(()=>{localStorage.removeItem("access_token"),s("/")},[s]),e.jsxs("div",{children:[e.jsx("h1",{children:"Logged out Successfully!"}),e.jsx("button",{children:e.jsx(a,{to:"/login",children:"Log back in"})})]})};export{c as default};
